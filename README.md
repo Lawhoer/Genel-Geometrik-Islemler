@@ -1,2 +1,6 @@
 # Genel-Geometrik-Islemler
-Şimdilik istediğiniz boyutta kare, dik üçgen ve ters dik üçgen yapabilen kod
+###### İstediğiniz boyuttaki aşağıdaki şekilleri yapabilirsiniz:
+- `Kare`
+- `Dik üçgen`
+- `Ters dik üçgen`
+
