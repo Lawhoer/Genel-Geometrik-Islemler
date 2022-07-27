@@ -5,4 +5,4 @@
 - `Dik üçgen`
 - `Ters dik üçgen`
 
-Coded by Lawhoer 🙂
+
